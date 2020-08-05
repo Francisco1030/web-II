@@ -4,6 +4,10 @@
 
 </div>
 
-#### 1.  Dependências
+#### Dependências
 - [PHP](https://www.php.net/)
 ------------
+
+
+
+<h4 align="center"> <em></></em> by <a href="https://github.com/Francisco1030" target="_blank"> Francisco Viana</a> </h4>
