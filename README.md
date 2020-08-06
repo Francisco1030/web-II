@@ -4,6 +4,16 @@
 
 </div>
 
+<h4>Tecnologias</h4>
+<ul>
+  <li> <img src="" alt="php" height="22"> <strong>   PHP </strong> </li>
+  <li> <img src="" alt="postgress" height="22"> <strong>   MySQL </strong> </li>
+  <li> <img src="" alt="html" height="22"> <strong>  HTML</strong> </li>
+  <li> <img src="" alt="css" height="22"> <strong>  CSS</strong> </li>
+  <li> <img src="" alt="html" height="22"> <strong>  JS</strong> </li>
+</ul>
+
+
 #### Dependências
 - [PHP](https://www.php.net/)
 ------------
