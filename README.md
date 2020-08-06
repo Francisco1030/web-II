@@ -6,11 +6,11 @@
 
 <h4>Tecnologias</h4>
 <ul>
-  <li> <img src="" alt="php" height="22"> <strong>   PHP </strong> </li>
-  <li> <img src="" alt="postgress" height="22"> <strong>   MySQL </strong> </li>
-  <li> <img src="" alt="html" height="22"> <strong>  HTML</strong> </li>
-  <li> <img src="" alt="css" height="22"> <strong>  CSS</strong> </li>
-  <li> <img src="" alt="html" height="22"> <strong>  JS</strong> </li>
+  <li> <img src="./util/img/php.svg" alt="php" height="22"> <strong>   PHP </strong> </li>
+  <li> <img src="./util/img/mysql.svg" alt="mysql" height="22"> <strong>   MySQL </strong> </li>
+  <li> <img src="./util/img/html.png" alt="html" height="22"> <strong>  HTML</strong> </li>
+  <li> <img src="./util/img/css.png" alt="css" height="22"> <strong>  CSS</strong> </li>
+  <li> <img src="./util/img/js.png" alt="js" height="22"> <strong>  JS</strong> </li>
 </ul>
 
 
