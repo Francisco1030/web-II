@@ -1,4 +1,21 @@
 <?php
+/*
+Dado um array, desenvolva um programa PHP que: 
+
+a) Retorne todos os elementos do array que contenham a palavra PHP e tenham mais de três caracteres, ou seja, elementos que contenham apenas a palavra PHP não devem ser considerados. 
+
+b) Retorne o array original sem os elementos que satisfizeram o critério definido no item a. 
+
+Exemplo: 
+
+$_array = array ("PHP",1,10,"PHP5","PHP4", " Livro de PHP",2); 
+
+Resultado: 
+
+array("PHP5","PHP4","Livro de PHP")
+
+*/
+
 
 $_array = array("PHP", 1, 10, "PHP5", "PHP4", " Livro de PHP", 2);
 
