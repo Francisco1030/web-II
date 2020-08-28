@@ -16,6 +16,13 @@
 
 #### Dependências
 - [PHP](https://www.php.net/)
+
+###### Intalar PHP
+
+``` shell
+    apt-get install php
+```
+
 ------------
 
 
