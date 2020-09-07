@@ -9,6 +9,7 @@
 
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
 </head>
 
 <body>
@@ -25,15 +26,24 @@
                         </span>
 
                         <div class="row">
-
                             <div class="row">
                                 <div class="input-field col s6">
-                                    <i class="material-icons prefix">account_circle</i>
-                                    <label for="icon_prefix"> <?php echo $_POST["nome"]; ?> </label>
+                                    <i class="material-icons prefix">qr_code_2</i>
+                                    <label for="icon_telephone"><?php echo $_POST["codigo"] == '' ? "Campo não informado" : $_POST["codigo"]; ?></label>
                                 </div>
                                 <div class="input-field col s6">
+                                    <i class="material-icons prefix">account_circle</i>
+                                    <label for="icon_prefix"> <?php echo $_POST["nome"] == '' ? "Campo não informado" : $_POST["nome"]; ?> </label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s6">
                                     <i class="material-icons prefix">phone</i>
-                                    <label for="icon_telephone"><?php echo $_POST["telefone"]; ?></label>
+                                    <label for="icon_telephone"><?php echo $_POST["telefone"] == '' ? "Campo não informado" : $_POST["telefone"]; ?></label>
+                                </div>
+                                <div class="input-field col s6">
+                                    <i class="material-icons prefix">date_range</i>
+                                    <label for="icon_telephone"><?php echo $_POST["faixa_etaria"] == '' ? "Campo não informado" : $_POST["faixa_etaria"]; ?></label>
                                 </div>
                             </div>
                         </div>
