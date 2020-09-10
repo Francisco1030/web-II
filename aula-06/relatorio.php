@@ -60,7 +60,7 @@ $resultados = $con->query("SELECT * FROM livros");
                                             <td><?php echo $resultado['descricao'] ?></td>
                                             <td>
                                                 <a href="" class="waves-effect orange btn"><i class="material-icons ">edit</i></a>
-                                                <a href='delete.php?id=<?php echo $resultado["id"] ?>' class="waves-effect red btn"><i class="material-icons ">delete</i></a>
+                                                <a href="delete.php?id=<?php echo $resultado['id'] ?>" class="waves-effect red btn"><i class="material-icons ">delete</i></a>
 
                                             </td>
 
