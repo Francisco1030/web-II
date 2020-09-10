@@ -1,10 +1,12 @@
 <div align="center"><a href="#"><img width="150" height="150" src="https://www.ascti.com.br/templates/untitled/images/designer/a455e9233adbb6fd62390ba5ed617609_websiteiconpngtransparent10.jpg"></a>
 
-##  Programação Web II
+# Programação Web II
+[![Author](https://img.shields.io/badge/author-Francisco%20Viana-D54F44?style=flat-square)](https://github.com/francisco1030)
 
 [![Author](https://img.shields.io/badge/author-Francisco%20Viana-D54F44?style=flat-square)](https://github.com/francisco1030)
 
 </div>
+
 
 <h4>Tecnologias</h4>
 <ul>
