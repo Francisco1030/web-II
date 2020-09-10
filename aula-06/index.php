@@ -21,8 +21,8 @@
         <div class="nav-wrapper">
             <a href="#" class="brand-logo">CRUD LIVROS</a>
             <ul id="nav-mobile" class="right hide-on-med-and-down">
-                <li><a href="sass.html">Cadastrar</a></li>
-                <li><a href="badges.html">Relatório</a></li>
+                <li><a href="index.php">Cadastrar</a></li>
+                <li><a href="relatorio.php">Relatório</a></li>
             </ul>
         </div>
     </nav>
