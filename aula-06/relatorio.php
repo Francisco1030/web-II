@@ -59,7 +59,7 @@ $resultados = $con->query("SELECT * FROM livros");
                                             <td><?php echo $resultado['autor'] ?></td>
                                             <td><?php echo $resultado['descricao'] ?></td>
                                             <td>
-                                                <a href="" class="waves-effect orange btn"><i class="material-icons ">edit</i></a>
+                                                <a href="editar-form.php?id=<?php echo $resultado['id'] ?>" class="waves-effect orange btn"><i class="material-icons ">edit</i></a>
                                                 <a href="delete.php?id=<?php echo $resultado['id'] ?>" class="waves-effect red btn"><i class="material-icons ">delete</i></a>
 
                                             </td>
@@ -70,7 +70,7 @@ $resultados = $con->query("SELECT * FROM livros");
                             </table>
                         </div>
 
-                        <a href="atv.php" class="waves-effect waves-light btn" style="background-color: #4d91ea;" type="submit" value="Enviar">Voltar</a>
+                        <a href="index.php" class="waves-effect waves-light btn" style="background-color: #4d91ea;" type="submit" value="Enviar">Voltar</a>
 
                     </div>
                 </div>
