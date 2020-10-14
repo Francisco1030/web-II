@@ -3,8 +3,6 @@
 # Programação Web II
 [![Author](https://img.shields.io/badge/author-Francisco%20Viana-D54F44?style=flat-square)](https://github.com/francisco1030)
 
-[![Author](https://img.shields.io/badge/author-Francisco%20Viana-D54F44?style=flat-square)](https://github.com/francisco1030)
-
 </div>
 
 
